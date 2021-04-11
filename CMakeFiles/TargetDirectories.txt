@@ -1,0 +1,3 @@
+/home/paro/Pulpit/modern_cpp-master/CMakeFiles/rebuild_cache.dir
+/home/paro/Pulpit/modern_cpp-master/CMakeFiles/modern_cpp.dir
+/home/paro/Pulpit/modern_cpp-master/CMakeFiles/edit_cache.dir
